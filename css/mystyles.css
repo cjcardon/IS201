@@ -1,0 +1,41 @@
+body {
+    background-color: aliceblue;
+}
+
+.bodytext {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fontcolor {
+    color:black;
+}
+
+.heading  {
+    font-size:xx-large;
+    text-align: center;
+    font-weight: bold;
+}
+
+img{
+    display: block;
+    margin: auto; 
+}
+
+iframe{
+    display: block;
+    margin: auto; 
+}
+
+a   {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centeredGraph{
+    display: block;
+    margin: auto;
+}
